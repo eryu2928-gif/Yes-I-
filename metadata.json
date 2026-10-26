@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Creator & Render Deployer",
+  "description": "Download production-ready Telegram Bot source code optimized for GitHub repository and Render free hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
